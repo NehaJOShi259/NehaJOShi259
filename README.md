@@ -2,11 +2,8 @@
 - 👀 I’m interested in Development and Problem Solving
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me: email:nehajoshi6350@gmail.com
-- ⚡ Fun fact: will tell later 
+- ⚡ Fun fact: will tell later
 
-<!---
-NehaJOShi259/NehaJOShi259 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
 
 <details>	
