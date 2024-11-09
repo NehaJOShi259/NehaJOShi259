@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @NehaJOShi259
 - 👀 I’m interested in Development and Problem Solving
 - 🌱 I’m currently learning DSA
-- 📫 How to reach me: phone: 6350455580
-                      email:nehajoshi6350@gmail.com
-- ⚡ Fun fact: will tell later
+- 📫 How to reach me: email:nehajoshi6350@gmail.com
+- ⚡ Fun fact: will tell later 
 
 <!---
 NehaJOShi259/NehaJOShi259 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
