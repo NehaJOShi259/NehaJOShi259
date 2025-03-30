@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @NehaJOShi259
-- 👀 I’m interested in Development and Problem Solving
-- 🌱 I’m currently learning DSA
 - 📫 How to reach me: email:nehajoshi6350@gmail.com
 
 
